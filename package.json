@@ -1,0 +1,29 @@
+{
+  "name": "jsfw",
+  "version": "1.0.0",
+  "description": "Like excel application from pure JS.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikornienko/jsFW.git"
+  },
+  "keywords": [
+    "javascript",
+    "table"
+  ],
+  "author": "vikornienko <vikornienko76@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikornienko/jsFW/issues"
+  },
+  "homepage": "https://github.com/vikornienko/jsFW#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
